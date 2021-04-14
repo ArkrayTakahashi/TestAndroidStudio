@@ -13,6 +13,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1r9DPoagWrnN2l2hhNsQwtkuEsm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -33,5 +37,38 @@
       <updated>1618379390292</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="541" y="137" key="CommitChangelistDialog2" timestamp="1618379719518">
+      <screen x="47" y="23" width="1873" height="1057" />
+    </state>
+    <state x="541" y="137" key="CommitChangelistDialog2/47.23.1873.1057@47.23.1873.1057" timestamp="1618379719518" />
+    <state x="583" y="291" key="Vcs.Push.Dialog.v2" timestamp="1618379729029">
+      <screen x="47" y="23" width="1873" height="1057" />
+    </state>
+    <state x="583" y="291" key="Vcs.Push.Dialog.v2/47.23.1873.1057@47.23.1873.1057" timestamp="1618379729029" />
   </component>
 </project>
